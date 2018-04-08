@@ -4,8 +4,8 @@
 # gitlab git的使用
 
 > git是一种代码版本管理工具，利用git可以对服务器中的项目代码进行上传，下载，修改和打标签等一系列的管理，git的相关的教程可以参考[git初步了解](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)<br>
-  全面了解git的使用请点击这里[git详细教程](https://git-scm.com/book/zh/v2)，有的项目中可能包含子项目或者其他子模块，git子模块能够有效的解决这个问题[子模块](https://segmentfault.com/a/1190000003076028)<br>
-  gitlab是服务器上控制代码权限用的，利用gitlab进行分布式开发的权限管理提高项目代码安全性[权限管理示例](http://blog.51cto.com/sgk2011/1925922)，一般安装在公司私服上，gitlab其他使用小技巧[gitlab小技巧](https://www.jianshu.com/p/2bd89bcf9995)<br>
+全面了解git的使用请点击这里[git详细教程](https://git-scm.com/book/zh/v2)，有的项目中可能包含子项目或者其他子模块，git子模块能够有效的解决这个问题[子模块](https://segmentfault.com/a/1190000003076028)<br>
+gitlab是服务器上控制代码权限用的，利用gitlab进行分布式开发的权限管理提高项目代码安全性[权限管理示例](http://blog.51cto.com/sgk2011/1925922)，一般安装在公司私服上，gitlab其他使用小技巧[gitlab小技巧](https://www.jianshu.com/p/2bd89bcf9995)<br>
 
 # maven nexus使用
 
